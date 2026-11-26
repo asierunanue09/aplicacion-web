@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </radialGradient>
+    <linearGradient id="friction" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#475569"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="backing" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#7f1d1d"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <ellipse cx="200" cy="316" rx="130" ry="18" fill="#020617" opacity="0.75"/>
+  <!-- Wear sensor cable -->
+  <path d="M295 162 C335 155, 345 210, 315 245 C295 268, 325 290, 338 282" fill="none" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+  <rect x="330" y="274" width="20" height="14" rx="3" fill="#38bdf8"/>
+  <!-- Back Pad -->
+  <g transform="translate(56, 86) rotate(-6)">
+    <path d="M24 38 Q125 0 226 38 L242 62 L222 126 Q125 96 28 126 L8 62 Z" fill="url(#backing)" stroke="#fca5a5" stroke-width="1.5" opacity="0.9"/>
+    <path d="M36 48 Q125 18 214 48 L206 112 Q125 88 44 112 Z" fill="url(#friction)"/>
+    <line x1="125" y1="36" x2="125" y2="96" stroke="#0f172a" stroke-width="5"/>
+  </g>
+  <!-- Front Pad -->
+  <g transform="translate(82, 166) rotate(4)">
+    <path d="M24 38 Q125 0 226 38 L242 62 L222 126 Q125 96 28 126 L8 62 Z" fill="url(#backing)" stroke="#f87171" stroke-width="2"/>
+    <path d="M36 48 Q125 18 214 48 L206 112 Q125 88 44 112 Z" fill="url(#friction)"/>
+    <line x1="125" y1="36" x2="125" y2="96" stroke="#0f172a" stroke-width="6"/>
+    <circle cx="24" cy="64" r="5" fill="#cbd5e1"/>
+    <circle cx="226" cy="64" r="5" fill="#cbd5e1"/>
+  </g>
+</svg>

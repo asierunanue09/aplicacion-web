@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </radialGradient>
+    <linearGradient id="rim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="50%" stop-color="#94a3b8"/>
+      <stop offset="100%" stop-color="#475569"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <ellipse cx="200" cy="348" rx="124" ry="16" fill="#020617" opacity="0.8"/>
+  <!-- Tire + Alloy Wheel -->
+  <circle cx="195" cy="195" r="130" fill="#111827" stroke="#334155" stroke-width="4"/>
+  <circle cx="195" cy="195" r="92" fill="#0f172a" stroke="url(#rim)" stroke-width="8"/>
+  <!-- 5 Spokes -->
+  <g stroke="url(#rim)" stroke-width="14" stroke-linecap="round">
+    <line x1="195" y1="195" x2="195" y2="112"/>
+    <line x1="195" y1="195" x2="274" y2="169"/>
+    <line x1="195" y1="195" x2="244" y2="262"/>
+    <line x1="195" y1="195" x2="146" y2="262"/>
+    <line x1="195" y1="195" x2="116" y2="169"/>
+  </g>
+  <circle cx="195" cy="195" r="24" fill="#334155" stroke="#e2e8f0" stroke-width="3"/>
+  <!-- Balancing laser / service badge -->
+  <rect x="242" y="254" width="114" height="58" rx="12" fill="#f59e0b" stroke="#0f172a" stroke-width="4"/>
+  <text x="299" y="280" font-family="system-ui, sans-serif" font-size="13" font-weight="900" fill="#0f172a" text-anchor="middle">MONTAJE</text>
+  <text x="299" y="298" font-family="system-ui, sans-serif" font-size="11" font-weight="800" fill="#0f172a" text-anchor="middle">+ EQUILIBRADO</text>
+</svg>

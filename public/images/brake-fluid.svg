@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </radialGradient>
+    <linearGradient id="bottle" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="35%" stop-color="#2563eb"/>
+      <stop offset="70%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="metalCap" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#475569"/>
+      <stop offset="40%" stop-color="#cbd5e1"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <ellipse cx="200" cy="348" rx="85" ry="14" fill="#020617" opacity="0.75"/>
+  <!-- Neck & Cap -->
+  <rect x="172" y="54" width="56" height="30" rx="6" fill="url(#metalCap)"/>
+  <rect x="177" y="84" width="46" height="16" fill="#0f172a"/>
+  <!-- Bottle body -->
+  <path d="M145 112 Q145 96 177 94 L223 94 Q255 96 255 112 L265 148 L265 326 Q265 342 248 342 L152 342 Q135 342 135 326 L135 148 Z" fill="url(#bottle)"/>
+  <!-- Specular highlight -->
+  <path d="M150 148 L150 326 Q150 332 158 334 L166 334 L166 148 Z" fill="#ffffff" opacity="0.14"/>
+  <!-- Label -->
+  <rect x="148" y="156" width="104" height="148" rx="8" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="158" y="170" width="84" height="28" rx="4" fill="#0284c7"/>
+  <text x="200" y="190" font-family="system-ui, sans-serif" font-size="16" font-weight="800" fill="#ffffff" text-anchor="middle">DOT 4 / GL-4</text>
+  <text x="200" y="228" font-family="system-ui, sans-serif" font-size="22" font-weight="900" fill="#f8fafc" text-anchor="middle">1L</text>
+  <text x="200" y="252" font-family="system-ui, sans-serif" font-size="10" font-weight="700" fill="#94a3b8" text-anchor="middle">HIGH SPEC FLUID</text>
+  <circle cx="200" cy="280" r="12" fill="none" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M200 272 C205 278 206 284 200 287 C194 284 195 278 200 272 Z" fill="#38bdf8"/>
+</svg>

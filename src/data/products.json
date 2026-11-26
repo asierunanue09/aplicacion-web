@@ -1,0 +1,502 @@
+[
+  {
+    "id": "flu-g12plus-5l",
+    "name": "Anticongelante Orgánico G12+ 50% (-37ºC) Garrafa 5L",
+    "shortDesc": "Refrigerante orgánico tecnología OAT color rosa, listo para uso directo.",
+    "category": "fluidos",
+    "brand": "Motul",
+    "oemRef": "G012A8FA1",
+    "aftermarketRef": "MOT-109142",
+    "imageUrl": "/images/coolant-g12.jpg",
+    "priceExclVat": 18.50,
+    "stock": 24,
+    "lowStockThreshold": 5,
+    "compatibleVehicleIds": [
+      "peugeot-308-2017-16hdi",
+      "renault-megane4-2018-15dci",
+      "ford-focus3-2015-15tdci"
+    ],
+    "universal": true,
+    "upsell": {
+      "targetProductId": "flu-limpiador-circuito",
+      "quantity": 1,
+      "message": "¿Añadir Limpiador de Circuito Refrigerante Liqui Moly (300ml) antes de renovar el anticongelante?"
+    }
+  },
+  {
+    "id": "flu-g13-5l",
+    "name": "Anticongelante Orgánico G13 Silicona/OAT 5L (Uso Directo)",
+    "shortDesc": "Especificación VW TL 774-J para motores modernos del grupo VAG y sistemas Start-Stop.",
+    "category": "fluidos",
+    "brand": "Febi Bilstein",
+    "oemRef": "G013A8JM1",
+    "aftermarketRef": "FEBI 38200",
+    "imageUrl": "/images/coolant-g12.jpg",
+    "priceExclVat": 22.40,
+    "stock": 18,
+    "lowStockThreshold": 4,
+    "compatibleVehicleIds": [
+      "vw-golf7-2016-20tdi",
+      "vw-golf7-2018-16tdi",
+      "vw-passat-2015-20tdi",
+      "seat-leon3-2016-20tdi",
+      "seat-leon3-2019-15tsi",
+      "audi-a3-2017-20tdi"
+    ],
+    "universal": false,
+    "upsell": {
+      "targetProductId": "flu-limpiador-circuito",
+      "quantity": 1,
+      "message": "¿Añadir Limpiador de Circuito Refrigerante Liqui Moly para limpieza previa del radiador?"
+    }
+  },
+  {
+    "id": "flu-5w30-longlife",
+    "name": "Aceite Motor 5W30 LongLife III FE Sintético 5L",
+    "shortDesc": "ACEA C3 · VW 504.00 / 507.00 · BMW LL-04 · MB 229.51. Apto para filtros DPF.",
+    "category": "fluidos",
+    "brand": "Castrol Edge",
+    "oemRef": "GS55545M4",
+    "aftermarketRef": "CAS-15F6F5",
+    "imageUrl": "/images/motor-oil.jpg",
+    "priceExclVat": 42.90,
+    "stock": 30,
+    "lowStockThreshold": 6,
+    "compatibleVehicleIds": [
+      "vw-golf7-2016-20tdi",
+      "vw-golf7-2018-16tdi",
+      "vw-passat-2015-20tdi",
+      "seat-leon3-2016-20tdi",
+      "seat-leon3-2019-15tsi",
+      "audi-a3-2017-20tdi",
+      "bmw-320d-2016-f30"
+    ],
+    "universal": true,
+    "upsell": {
+      "targetProductId": "fre-filtro-aceite-mann",
+      "quantity": 1,
+      "message": "¿Añadir Filtro de Aceite Mann-Filter HU 7020 z para cambio completo?"
+    }
+  },
+  {
+    "id": "flu-10w40-5l",
+    "name": "Aceite Motor 10W40 Semisintético Quartz 7000 5L",
+    "shortDesc": "ACEA A3/B4 · API SN/CF · PSA B71 2300. Protección térmica reforzada.",
+    "category": "fluidos",
+    "brand": "TotalEnergies",
+    "oemRef": "9816520180",
+    "aftermarketRef": "TOT-213697",
+    "imageUrl": "/images/motor-oil.jpg",
+    "priceExclVat": 27.50,
+    "stock": 14,
+    "lowStockThreshold": 4,
+    "compatibleVehicleIds": [
+      "peugeot-308-2017-16hdi",
+      "renault-megane4-2018-15dci",
+      "ford-focus3-2015-15tdci"
+    ],
+    "universal": true
+  },
+  {
+    "id": "flu-dot4-1l",
+    "name": "Líquido de Frenos DOT 4 Baja Viscosidad SL.6 1L",
+    "shortDesc": "Especial sistemas ESP/ABS/ASR. Punto de ebullición seco 265ºC.",
+    "category": "fluidos",
+    "brand": "ATE",
+    "oemRef": "B000750M3",
+    "aftermarketRef": "ATE 03.9901-6402.2",
+    "imageUrl": "/images/brake-fluid.svg",
+    "priceExclVat": 12.80,
+    "stock": 20,
+    "lowStockThreshold": 5,
+    "compatibleVehicleIds": [],
+    "universal": true
+  },
+  {
+    "id": "flu-valvulina-75w80",
+    "name": "Valvulina Caja de Cambios 75W80 Motylgear GL-4/GL-5 1L",
+    "shortDesc": "Lubricante Technosynthese para cajas manuales de 5 y 6 velocidades.",
+    "category": "fluidos",
+    "brand": "Motul",
+    "oemRef": "G052527A2",
+    "aftermarketRef": "MOT-105783",
+    "imageUrl": "/images/brake-fluid.svg",
+    "priceExclVat": 14.20,
+    "stock": 16,
+    "lowStockThreshold": 4,
+    "compatibleVehicleIds": [],
+    "universal": true
+  },
+  {
+    "id": "flu-limpiador-circuito",
+    "name": "Limpiador de Circuito Refrigerante Radiator Cleaner 300ml",
+    "shortDesc": "Elimina lodos de aceite, cal y óxido del circuito antes de rellenar.",
+    "category": "fluidos",
+    "brand": "Liqui Moly",
+    "oemRef": "LM-CLEAN-300",
+    "aftermarketRef": "LM 2506",
+    "imageUrl": "/images/radiator-cleaner.svg",
+    "priceExclVat": 9.90,
+    "stock": 12,
+    "lowStockThreshold": 3,
+    "compatibleVehicleIds": [],
+    "universal": true
+  },
+  {
+    "id": "neu-michelin-205-55-16",
+    "name": "Neumático Michelin Primacy 4+ 205/55 R16 91V",
+    "shortDesc": "Turismo verano · Eficiencia B · Mojado A · 69 dB · Larga duración.",
+    "category": "neumaticos",
+    "brand": "Michelin",
+    "oemRef": "MIC-2055516-P4",
+    "aftermarketRef": "205/55 R16 91V",
+    "tireSize": "205/55 R16",
+    "imageUrl": "/images/car-tire.jpg",
+    "priceExclVat": 76.50,
+    "stock": 16,
+    "lowStockThreshold": 4,
+    "compatibleVehicleIds": [
+      "vw-golf7-2016-20tdi",
+      "vw-golf7-2018-16tdi",
+      "seat-leon3-2019-15tsi",
+      "peugeot-308-2017-16hdi",
+      "renault-megane4-2018-15dci"
+    ],
+    "upsell": {
+      "targetProductId": "neu-servicio-montaje",
+      "quantity": 1,
+      "message": "¿Añadir servicio de Montaje, válvula nueva y equilibrado electrónico por rueda?"
+    }
+  },
+  {
+    "id": "neu-continental-225-45-17",
+    "name": "Neumático Continental PremiumContact 7 225/45 R17 94Y XL",
+    "shortDesc": "Ultra High Performance · Reforzado XL · Frenada A en mojado.",
+    "category": "neumaticos",
+    "brand": "Continental",
+    "oemRef": "CON-2254517-PC7",
+    "aftermarketRef": "225/45 R17 94Y",
+    "tireSize": "225/45 R17",
+    "imageUrl": "/images/car-tire.jpg",
+    "priceExclVat": 94.00,
+    "stock": 8,
+    "lowStockThreshold": 4,
+    "compatibleVehicleIds": [
+      "seat-leon3-2016-20tdi",
+      "audi-a3-2017-20tdi"
+    ],
+    "upsell": {
+      "targetProductId": "neu-servicio-montaje",
+      "quantity": 1,
+      "message": "¿Añadir servicio de Montaje, válvula y equilibrado para esta cubierta?"
+    }
+  },
+  {
+    "id": "neu-bridgestone-195-65-15",
+    "name": "Neumático Bridgestone Turanza T005 195/65 R15 91H",
+    "shortDesc": "Turismo equilibrado · Bajo consumo · Excelente agarre en lluvia.",
+    "category": "neumaticos",
+    "brand": "Bridgestone",
+    "oemRef": "BRI-1956515-T005",
+    "aftermarketRef": "195/65 R15 91H",
+    "tireSize": "195/65 R15",
+    "imageUrl": "/images/car-tire.jpg",
+    "priceExclVat": 58.20,
+    "stock": 3,
+    "lowStockThreshold": 4,
+    "compatibleVehicleIds": [
+      "ford-focus3-2015-15tdci"
+    ],
+    "upsell": {
+      "targetProductId": "neu-servicio-montaje",
+      "quantity": 1,
+      "message": "¿Añadir servicio de Montaje, válvula y equilibrado por neumático?"
+    }
+  },
+  {
+    "id": "neu-pirelli-225-50-17",
+    "name": "Neumático Pirelli Cinturato P7 C2 225/50 R17 98W XL",
+    "shortDesc": "Berlina / Familiar · Homologación BMW · Baja resistencia a la rodadura.",
+    "category": "neumaticos",
+    "brand": "Pirelli",
+    "oemRef": "PIR-2255017-P7",
+    "aftermarketRef": "225/50 R17 98W",
+    "tireSize": "225/50 R17",
+    "imageUrl": "/images/car-tire.jpg",
+    "priceExclVat": 102.50,
+    "stock": 0,
+    "lowStockThreshold": 4,
+    "compatibleVehicleIds": [
+      "bmw-320d-2016-f30"
+    ],
+    "upsell": {
+      "targetProductId": "neu-servicio-montaje",
+      "quantity": 1,
+      "message": "¿Añadir servicio de Montaje, válvula y equilibrado por neumático?"
+    }
+  },
+  {
+    "id": "neu-servicio-montaje",
+    "name": "Servicio: Montaje, Válvula y Equilibrado (por rueda)",
+    "shortDesc": "Desmontaje, sustitución de válvula TR414, montaje, equilibrado láser y gestión NFU.",
+    "category": "neumaticos",
+    "brand": "TallerTPV Service",
+    "oemRef": "SRV-NEU-MVE",
+    "aftermarketRef": "MONTAJE-VAL-EQ",
+    "imageUrl": "/images/wheel-service.svg",
+    "priceExclVat": 15.00,
+    "stock": 999,
+    "lowStockThreshold": 0,
+    "compatibleVehicleIds": [],
+    "universal": true,
+    "isService": true
+  },
+  {
+    "id": "emb-luk-bimasa-624351800",
+    "name": "Kit de Embrague + Volante Bimasa LuK RepSet DMF (240mm)",
+    "shortDesc": "Incluye plato presión, disco, volante bimasa y collarín hidráulico CSC.",
+    "category": "embragues",
+    "brand": "LuK",
+    "oemRef": "03L141016Q",
+    "aftermarketRef": "Luk 624 3518 00",
+    "imageUrl": "/images/clutch-kit.jpg",
+    "priceExclVat": 468.00,
+    "stock": 3,
+    "lowStockThreshold": 3,
+    "compatibleVehicleIds": [
+      "vw-golf7-2016-20tdi",
+      "vw-passat-2015-20tdi",
+      "seat-leon3-2016-20tdi",
+      "audi-a3-2017-20tdi"
+    ],
+    "upsell": {
+      "targetProductId": "flu-valvulina-75w80",
+      "quantity": 2,
+      "message": "¿Añadir 2L de Valvulina 75W80 Motul para renovar aceite de caja al cambiar embrague?"
+    }
+  },
+  {
+    "id": "emb-valeo-sin-bimasa",
+    "name": "Kit de Embrague Completo (Sin Volante Bimasa) 228mm",
+    "shortDesc": "Maza, disco con amortiguador de torsión y cojinete de empuje mecánico.",
+    "category": "embragues",
+    "brand": "Valeo",
+    "oemRef": "2052N5",
+    "aftermarketRef": "Valeo 826362",
+    "imageUrl": "/images/clutch-kit.jpg",
+    "priceExclVat": 164.50,
+    "stock": 5,
+    "lowStockThreshold": 2,
+    "compatibleVehicleIds": [
+      "peugeot-308-2017-16hdi",
+      "peugeot-3008-2018-15hdi",
+      "ford-focus3-2015-15tdci"
+    ],
+    "upsell": {
+      "targetProductId": "flu-valvulina-75w80",
+      "quantity": 2,
+      "message": "¿Añadir 2L de Valvulina 75W80 GL-4 recomendada en sustitución de embrague PSA/Ford?"
+    }
+  },
+  {
+    "id": "emb-sachs-completo",
+    "name": "Kit de Embrague XTend + Cojinete Hidráulico SACHS",
+    "shortDesc": "Tecnología autoajustable XTend para par motor elevado en 2.0 dCi / B47.",
+    "category": "embragues",
+    "brand": "Sachs",
+    "oemRef": "21208631807",
+    "aftermarketRef": "Sachs 3000 951 019",
+    "imageUrl": "/images/clutch-kit.jpg",
+    "priceExclVat": 249.00,
+    "stock": 0,
+    "lowStockThreshold": 2,
+    "compatibleVehicleIds": [
+      "bmw-320d-2016-f30",
+      "renault-megane4-2018-15dci"
+    ],
+    "upsell": {
+      "targetProductId": "flu-valvulina-75w80",
+      "quantity": 2,
+      "message": "¿Añadir 2L de Valvulina 75W80 para el cambio de caja?"
+    }
+  },
+  {
+    "id": "emb-skf-palier",
+    "name": "Árbol de Transmisión / Palier Completo Delantero Izq. SKF",
+    "shortDesc": "Longitud 540mm · Dentado exterior 36 · Incluye tuerca de buje nueva.",
+    "category": "embragues",
+    "brand": "SKF",
+    "oemRef": "5Q0407271BP",
+    "aftermarketRef": "SKF VKJC 1034",
+    "imageUrl": "/images/drive-shaft.svg",
+    "priceExclVat": 138.00,
+    "stock": 2,
+    "lowStockThreshold": 2,
+    "compatibleVehicleIds": [
+      "vw-golf7-2016-20tdi",
+      "vw-golf7-2018-16tdi",
+      "seat-leon3-2016-20tdi",
+      "audi-a3-2017-20tdi"
+    ]
+  },
+  {
+    "id": "fre-pastillas-brembo",
+    "name": "Juego Pastillas de Freno Delanteras con Sensor Desgaste",
+    "shortDesc": "Compuesto cerámico bajo polvo · Homologación ECE R90 · Sistema Teves.",
+    "category": "frenado",
+    "brand": "Brembo",
+    "oemRef": "5Q0698151B",
+    "aftermarketRef": "Brembo P 85 126",
+    "imageUrl": "/images/brake-pads.svg",
+    "priceExclVat": 46.50,
+    "stock": 11,
+    "lowStockThreshold": 3,
+    "compatibleVehicleIds": [
+      "vw-golf7-2016-20tdi",
+      "vw-golf7-2018-16tdi",
+      "vw-passat-2015-20tdi",
+      "seat-leon3-2016-20tdi",
+      "seat-leon3-2019-15tsi",
+      "audi-a3-2017-20tdi"
+    ],
+    "upsell": {
+      "targetProductId": "fre-discos-trw",
+      "quantity": 1,
+      "message": "¿Añadir Pareja de Discos Ventilados TRW 312mm o Líquido DOT 4 para revisión completa?"
+    }
+  },
+  {
+    "id": "fre-discos-trw",
+    "name": "Pareja Discos de Freno Delanteros Ventilados 312mm (2 uds)",
+    "shortDesc": "Recubrimiento anticorrosión negro · Alto carbono · 5x112.",
+    "category": "frenado",
+    "brand": "TRW",
+    "oemRef": "1K0615301AA",
+    "aftermarketRef": "TRW DF6574",
+    "imageUrl": "/images/brake-discs.svg",
+    "priceExclVat": 89.00,
+    "stock": 7,
+    "lowStockThreshold": 3,
+    "compatibleVehicleIds": [
+      "vw-golf7-2016-20tdi",
+      "vw-passat-2015-20tdi",
+      "seat-leon3-2016-20tdi",
+      "audi-a3-2017-20tdi"
+    ],
+    "upsell": {
+      "targetProductId": "flu-dot4-1l",
+      "quantity": 1,
+      "message": "¿Añadir Líquido de Frenos ATE DOT 4 1L para purgar el circuito?"
+    }
+  },
+  {
+    "id": "fre-distribucion-ina-03l",
+    "name": "Kit Correa Distribución + Bomba de Agua INA (TDI EA189/EA288)",
+    "shortDesc": "Correa 160 dientes, bomba de agua aluminio, tensor automático y poleas guía.",
+    "category": "frenado",
+    "brand": "INA",
+    "oemRef": "03L198119F",
+    "aftermarketRef": "INA 530 0550 30",
+    "imageUrl": "/images/timing-kit.jpg",
+    "priceExclVat": 179.00,
+    "stock": 4,
+    "lowStockThreshold": 2,
+    "compatibleVehicleIds": [
+      "vw-golf7-2016-20tdi",
+      "vw-passat-2015-20tdi",
+      "seat-leon3-2016-20tdi",
+      "audi-a3-2017-20tdi"
+    ],
+    "upsell": {
+      "targetProductId": "flu-g13-5l",
+      "quantity": 1,
+      "message": "¿Añadir Garrafa 5L Anticongelante G13 al sustituir la bomba de agua?"
+    }
+  },
+  {
+    "id": "fre-distribucion-skf-psa",
+    "name": "Kit Distribución + Bomba de Agua SKF (1.6 / 1.5 HDi & dCi)",
+    "shortDesc": "Kit completo con bomba de agua reforzada y junta estanca.",
+    "category": "frenado",
+    "brand": "SKF",
+    "oemRef": "1613561980",
+    "aftermarketRef": "SKF VKMC 03316",
+    "imageUrl": "/images/timing-kit.jpg",
+    "priceExclVat": 152.00,
+    "stock": 2,
+    "lowStockThreshold": 2,
+    "compatibleVehicleIds": [
+      "peugeot-308-2017-16hdi",
+      "peugeot-3008-2018-15hdi",
+      "renault-megane4-2018-15dci",
+      "ford-focus3-2015-15tdci"
+    ],
+    "upsell": {
+      "targetProductId": "flu-g12plus-5l",
+      "quantity": 1,
+      "message": "¿Añadir Garrafa 5L Anticongelante G12+ Motul para rellenar tras cambio de bomba?"
+    }
+  },
+  {
+    "id": "fre-bateria-varta-74ah",
+    "name": "Batería Varta Blue Dynamic E11 12V 74Ah 680A EN",
+    "shortDesc": "Borne positivo derecha · Tecnología rejilla PowerFrame · Arranque en frío.",
+    "category": "frenado",
+    "brand": "Varta",
+    "oemRef": "000915105DG",
+    "aftermarketRef": "Varta 574 012 068",
+    "imageUrl": "/images/battery.jpg",
+    "priceExclVat": 98.50,
+    "stock": 9,
+    "lowStockThreshold": 3,
+    "compatibleVehicleIds": [
+      "vw-golf7-2016-20tdi",
+      "vw-passat-2015-20tdi",
+      "seat-leon3-2016-20tdi",
+      "peugeot-308-2017-16hdi",
+      "renault-megane4-2018-15dci",
+      "bmw-320d-2016-f30"
+    ],
+    "universal": true
+  },
+  {
+    "id": "fre-filtro-aceite-mann",
+    "name": "Filtro de Aceite Cartucho Ecológico Mann-Filter",
+    "shortDesc": "Medio filtrante LongLife con juntas tóricas Viton incluidas.",
+    "category": "frenado",
+    "brand": "Mann-Filter",
+    "oemRef": "03N115562",
+    "aftermarketRef": "Mann HU 7020 z",
+    "imageUrl": "/images/filters.svg",
+    "priceExclVat": 11.40,
+    "stock": 28,
+    "lowStockThreshold": 6,
+    "compatibleVehicleIds": [
+      "vw-golf7-2016-20tdi",
+      "vw-golf7-2018-16tdi",
+      "vw-passat-2015-20tdi",
+      "seat-leon3-2016-20tdi",
+      "audi-a3-2017-20tdi"
+    ]
+  },
+  {
+    "id": "fre-filtros-bosch-pack",
+    "name": "Pack Filtro Aire Motor + Filtro Habitáculo Carbón Activo",
+    "shortDesc": "Protección partículas finas PM2.5, polen y olores. Ajuste plataforma MQB.",
+    "category": "frenado",
+    "brand": "Bosch",
+    "oemRef": "5Q0129620B",
+    "aftermarketRef": "Bosch F 026 400 287",
+    "imageUrl": "/images/filters.svg",
+    "priceExclVat": 29.80,
+    "stock": 13,
+    "lowStockThreshold": 4,
+    "compatibleVehicleIds": [
+      "vw-golf7-2016-20tdi",
+      "vw-golf7-2018-16tdi",
+      "seat-leon3-2016-20tdi",
+      "seat-leon3-2019-15tsi",
+      "audi-a3-2017-20tdi"
+    ]
+  }
+]

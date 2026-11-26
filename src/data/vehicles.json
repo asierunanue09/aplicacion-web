@@ -1,0 +1,90 @@
+[
+  {
+    "id": "vw-golf7-2016-20tdi",
+    "brand": "Volkswagen",
+    "model": "Golf VII (5G)",
+    "year": 2016,
+    "engine": "2.0 TDI 150 CV (CRLB)",
+    "tireSize": "205/55 R16"
+  },
+  {
+    "id": "vw-golf7-2018-16tdi",
+    "brand": "Volkswagen",
+    "model": "Golf VII (5G)",
+    "year": 2018,
+    "engine": "1.6 TDI 115 CV (DDYA)",
+    "tireSize": "205/55 R16"
+  },
+  {
+    "id": "vw-passat-2015-20tdi",
+    "brand": "Volkswagen",
+    "model": "Passat B8",
+    "year": 2015,
+    "engine": "2.0 TDI 150 CV (CRLB)",
+    "tireSize": "215/55 R17"
+  },
+  {
+    "id": "seat-leon3-2016-20tdi",
+    "brand": "SEAT",
+    "model": "León III (5F)",
+    "year": 2016,
+    "engine": "2.0 TDI 150 CV (CRMB)",
+    "tireSize": "225/45 R17"
+  },
+  {
+    "id": "seat-leon3-2019-15tsi",
+    "brand": "SEAT",
+    "model": "León III (5F)",
+    "year": 2019,
+    "engine": "1.5 TSI 130 CV (DACA)",
+    "tireSize": "205/55 R16"
+  },
+  {
+    "id": "audi-a3-2017-20tdi",
+    "brand": "Audi",
+    "model": "A3 Sportback (8V)",
+    "year": 2017,
+    "engine": "2.0 TDI 150 CV (CRLB)",
+    "tireSize": "225/45 R17"
+  },
+  {
+    "id": "peugeot-308-2017-16hdi",
+    "brand": "Peugeot",
+    "model": "308 II (T9)",
+    "year": 2017,
+    "engine": "1.6 BlueHDi 120 CV (BHZ)",
+    "tireSize": "205/55 R16"
+  },
+  {
+    "id": "peugeot-3008-2018-15hdi",
+    "brand": "Peugeot",
+    "model": "3008 II",
+    "year": 2018,
+    "engine": "1.5 BlueHDi 130 CV (YHZ)",
+    "tireSize": "225/55 R18"
+  },
+  {
+    "id": "renault-megane4-2018-15dci",
+    "brand": "Renault",
+    "model": "Mégane IV",
+    "year": 2018,
+    "engine": "1.5 dCi 110 CV (K9K)",
+    "tireSize": "205/55 R16"
+  },
+  {
+    "id": "bmw-320d-2016-f30",
+    "brand": "BMW",
+    "model": "Serie 3 (F30)",
+    "year": 2016,
+    "engine": "320d 190 CV (B47)",
+    "tireSize": "225/50 R17"
+  },
+  {
+    "id": "ford-focus3-2015-15tdci",
+    "brand": "Ford",
+    "model": "Focus III",
+    "year": 2015,
+    "engine": "1.5 TDCi 120 CV (XWDA)",
+    "tireSize": "195/65 R15"
+  }
+]
